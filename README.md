@@ -1,6 +1,11 @@
 # di-bff
 
-bff
+- di
+- bff
+- pnpm
+- k8s
+- 服务发现
+- 负载
 
 参考：
 
